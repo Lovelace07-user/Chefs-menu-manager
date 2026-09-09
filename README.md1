@@ -1,0 +1,10 @@
+# Chef's Menu Manager - Part 2
+
+React Native application for managing restaurant menu items.
+
+## Features
+- View menu items with pictures
+- Add new menu items
+- Validation for required fields
+- Order More and Done Ordering functionality
+- Order confirmation with order number
